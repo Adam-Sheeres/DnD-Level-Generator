@@ -10,5 +10,4 @@ Run program:  /Users/<Username>/apache-ant-1.10.7/bin/ant runmeJava
 
 Notes:
   It crashes 1/100 times, and I have no clue why. I think it has to do with code from before, but I don't really have enough
-  time to fix that as it is now 3:40am. If it doesn't run when you grade me can you please please please try to run it until
-  it does. I know it runs it just might not on the first time.
+  time to fix that as it is now 3:40am. 
